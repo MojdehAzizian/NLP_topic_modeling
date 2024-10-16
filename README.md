@@ -1,2 +1,2 @@
 # NLP_topic_modeling
-Topic modeling for covid-19 research papers
+Clustering and topic modeling for 1500 of medium papers
